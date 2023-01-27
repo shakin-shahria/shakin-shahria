@@ -1,12 +1,11 @@
 ### Hi there 👋, I'm Shakin
 #### Programmer
-![Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: PHP / HTML / CSS / JAVA
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java script 
 
 
