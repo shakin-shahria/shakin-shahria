@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Shakin
+### Grettings 👋, I'm Shakin
 #### Programmer
 
 Skills: PHP / HTML / CSS / JAVA
