@@ -1,7 +1,7 @@
 ### Grettings 👋, I'm Shakin
 #### Programmer
 
-Skills: PHP / HTML / CSS / JAVA
+Skills: PHP / HTML / CSS / JAVA / Python / My sql
 
 - 🌱 I’m currently learning Java script 
 
