@@ -8,6 +8,8 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ![version :10.Nov.2022](https://img.shields.io/badge/version-10.nov.2022-informational)
 ![profile count](https://komarev.com/ghpvc/?username=shakinshahria&color=red)
+<a href="https://github.com/shakinshahria?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shakinshahria?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 
 
