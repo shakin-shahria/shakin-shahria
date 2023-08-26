@@ -24,7 +24,7 @@
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** |  Python, SQL | C, C++, Bash  | Java |
 | **Languages(human)** | Bangla, English | Hindi |   |
-| **Other interests** | MLOps, Data Lake, Data Engineering | Cyber Security, Game Development, Blockchain | Digital Privacy, w3 |
+| **Other interests** | MLOps, Data Lake, Data Engineering | Cyber Security, Game Development, Blockchain | Digital Privacy |
 
 
 ## Quotes
