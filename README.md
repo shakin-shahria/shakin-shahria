@@ -8,7 +8,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ![version :10.Nov.2022](https://img.shields.io/badge/version-10.nov.2022-informational)
 ![profile count](https://komarev.com/ghpvc/?username=shakinshahria&color=red)
-[![website](https://img.shields.io/badge/website-informational)](https://shakinshahria.vercel.app)
+
 
 
 ## Abstract
@@ -23,7 +23,7 @@ I am a software engineer at heart, specialising in DevOps. Wanna be ML+DataOps.
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** |  Python, SQL | C, C++, Bash  | Java |
-| **Languages(human)** | Bangla, English | Hindi | Korean  |
+| **Languages(human)** | Bangla, English | Hindi |   |
 | **Other interests** | MLOps, Data Lake, Data Engineering | Cyber Security, Game Development, Blockchain | Digital Privacy, w3 |
 
 
