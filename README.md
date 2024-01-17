@@ -13,7 +13,8 @@
 ## Abstract
 
 - Currently delving into AI, Machine Learning, and Data Engineering for integration .
-- Proficient in programming languages: C, C++, PHP, Python, and Java. 
+- Skilled in Web management: HTML, CSS, JavaScript, PHP. 
+- Proficient in programming languages: C, C++, Python and Java. 
 - Skilled in database management: SQL, including designing and querying databases.
 
 
