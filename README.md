@@ -28,7 +28,7 @@
 
 # <img src="assets/img/programming-languages.gif"  width="22" height="22"> &nbsp;Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livealvi&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakin-shahria=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Quotes
 > No dream is too big, and no dreamer is too small. - Turbo
