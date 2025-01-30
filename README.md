@@ -40,9 +40,9 @@
 
 <table>
   <tr>
-    <td>
+<!--     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=shakin-shahria&show_icons=true&theme=radical" alt="Shakin Shahria's GitHub Stats" />
-    </td>
+    </td> -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakin-shahria&layout=compact&theme=radical" alt="Top Languages" />
     </td>
