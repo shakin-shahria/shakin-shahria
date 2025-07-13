@@ -21,7 +21,7 @@
 | *Name \ Familiarity*     | High                    | Medium              | Low       |
 |--------------------------|-------------------------|---------------------|-----------|
 | **Languages (programming)** | Python, Java, SQL      | C, C++, Bash        | C#        |
-| **Frameworks (programming)**| Laravel, React.js, Node.js         | AI,React Native,Django,Kubernetes,AWS,TensorFlow,Flutter| ASP.NET   |
+| **Frameworks (programming)**| Laravel, React.js, Node.js         | AI, React Native, Django, Kubernetes, AWS, TensorFlow, Flutter| ASP.NET   |
 | **Data Base**    | MySQL, MongoDB         | PostgreSQL              |           |
 | **Languages (human)**    | Bangla, English          | Hindi               |           |
 | **Other interests**      | MLOps, Data Lake, Data Engineering | Cyber Security, Game Development, Blockchain | Digital Privacy |
