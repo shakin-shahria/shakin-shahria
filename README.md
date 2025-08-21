@@ -1,6 +1,7 @@
 # Shakin Shahria
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shakin-shahria-277082229)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40">](https://www.linkedin.com/in/shakin-shahria-277082229)
+
 
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ![version :10.Nov.2022](https://img.shields.io/badge/version-10.nov.2022-informational)
@@ -12,8 +13,8 @@
   **Aspiring Software Engineer skilled in backend, frontend, DevOps, machine learning, and data science. Dedicated to delivering high-quality solutions.**
 
 - **Currently delving into AI, Machine Learning, and Data Engineering for integration.**
-- **Skilled in Web management:** HTML, CSS, JavaScript, PHP.
-- **Proficient in programming languages:** C, C++, Python, Java.
+- **Skilled in Web management:** Laravel, React, Next.js, Node.js.
+- **Proficient in programming languages:** JavaScript, C, C++, Python.
 - **Skilled in database management:** SQL, including designing and querying databases.
 
 ## 📋 Specifications
@@ -21,7 +22,7 @@
 | *Name \ Familiarity*     | High                    | Medium              | Low       |
 |--------------------------|-------------------------|---------------------|-----------|
 | **Languages (programming)** | Python, Java, SQL      | C, C++, Bash        | C#        |
-| **Frameworks (programming)**| Laravel, React.js, Node.js         | AI, React Native, Django, Kubernetes, AWS, TensorFlow, Flutter| ASP.NET   |
+| **Frameworks (programming)**| Laravel, React, Next.js, Node.js         | AI, React Native, Django, Kubernetes, AWS, TensorFlow, Flutter| ASP.NET   |
 | **Data Base**    | MySQL, MongoDB         | PostgreSQL              |           |
 | **Languages (human)**    | Bangla, English          | Hindi               |           |
 | **Other interests**      | MLOps, Data Lake, Data Engineering | Cyber Security, Game Development, Blockchain | Digital Privacy |
@@ -32,22 +33,32 @@
 > *- Turbo*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&section=footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=System.out.println(%22Thanks+for+visiting+👨‍💻%22);git+commit+-m+'Keep+Building+🚀';return+0;+Happy+Coding!+⚡">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Open%20Source-36BCF7?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-9B59B6?style=for-the-badge&logo=brains"/>
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Laravel%20%7C%20Next.js-27AE60?style=for-the-badge"/>
 </p>
 
 
-## 📊  Stats
 
-<table>
+
+
+## 📊 Stats  
+
+<table align="center">
   <tr>
-<!--     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shakin-shahria&show_icons=true&theme=radical" alt="Shakin Shahria's GitHub Stats" />
-    </td> -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakin-shahria&layout=compact&theme=radical" alt="Top Languages" />
     </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=shakin-shahria&theme=radical&hide_border=true&background=0D1117&ring=EEFF00&fire=a82da8&currStreakLabel=EEFF00" alt="GitHub Streak"/>
+    </td>
   </tr>
 </table>
+
 
 
 
