@@ -11,7 +11,6 @@
 
 
 
-
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ![version :10.Nov.2022](https://img.shields.io/badge/version-10.nov.2022-informational)
 
