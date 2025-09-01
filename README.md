@@ -36,8 +36,8 @@
 
 ## 💬 Quotes
 
-> **"No dream is too big, and no dreamer is too small."**  
-> *- Turbo*
+> **"A year spent in artificial intelligence is enough to make one believe in God"**  
+> *- Alan Perlis*
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=System.out.println(%22Thanks+for+visiting+👨‍💻%22);git+commit+-m+'Keep+Building+🚀';return+0;+Happy+Coding!+⚡">
