@@ -2,7 +2,6 @@
 
 
 
-
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40">](https://www.linkedin.com/in/shakin-shahria-277082229)
 
 [![Email](https://img.shields.io/badge/Email-shakinshaharia%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakinshaharia@gmail.com)
