@@ -5,6 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-shakinshaharia%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakinshaharia@gmail.com)
 
 
+
 ## 🌟 Abstract
 
   **Aspiring Software Engineer skilled in backend, frontend, DevOps, machine learning, and data science. Dedicated to delivering high-quality solutions.**
