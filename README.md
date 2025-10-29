@@ -6,8 +6,6 @@
 
 
 
-
-
 ## 🌟 Abstract
 
   **Software Engineer passionate about AI integrations || Skilled in Laravel, NodeJS, ReactJS, NextJS, TypeScript & Python.**
