@@ -1,33 +1,36 @@
 # Shakin Shahria
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40">](https://www.linkedin.com/in/shakin-shahria-277082229)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40">](https://www.linkedin.com/in/shakin-shahria-277082229) [<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="40">](https://shakin.dev)
 
 [![Email](https://img.shields.io/badge/Email-shakinshaharia%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakinshaharia@gmail.com)
 
 
-## 🌟 Abstract
+##  Abstract
 
-  **Software Engineer passionate about AI integrations || Skilled in Laravel, NodeJS, ReactJS, NextJS, TypeScript & Python.**
+**AI-focused Software Engineer building web applications and AI-powered systems.**  
 
-- **Currently delving into AI, Machine Learning, and Data Engineering for integration.**
-- **Skilled in Web management:** Laravel, React, Next.js, Node.js.
-- **Proficient in programming languages:** JavaScript, C, C++, Python.
-- **Skilled in database management:** SQL, including designing and querying databases.
+- Skilled in **Python, JavaScript/TypeScript, Laravel, Node.js, React, Next.js**.  
+- Working on **LLMs, RAG pipelines, and data-driven AI integrations**.  
+- Experienced with **SQL, NoSQL, and vector databases** for AI workflows.
 
-## 📋 Specifications
 
-| *Name \ Familiarity*     | High                    | Medium              | Low       |
-|--------------------------|-------------------------|---------------------|-----------|
-| **Languages (programming)** | Python, Java, SQL      | C, C++, Bash        | C#        |
-| **Frameworks (programming)**| Laravel, React, Next.js, Node.js         | AI, React Native, Django, Kubernetes, AWS, TensorFlow, Flutter| ASP.NET   |
-| **Data Base**    | MySQL, MongoDB         | PostgreSQL              |           |
-| **Languages (human)**    | Bangla, English          | Hindi               |           |
-| **Other interests**      | MLOps, Data Lake, Data Engineering | Cyber Security, Game Development, Blockchain | Digital Privacy |
+##  Specifications
 
-## 💬 Quotes
+| Domain \ Proficiency | Strong | Working Knowledge | Exploring |
+|---------------------|--------|-------------------|-----------|
+| **Programming Languages** | Python, JavaScript, C, C++ | Java, Bash | — |
+| **Backend & APIs** | Laravel, FastAPI, Node.js, Express.js| REST API Design, Auth Systems | gRPC |
+| **Frontend & Full-Stack** | React.js, Next.js | React Native | — |
+| **Databases & Vector Stores** | MySQL, PostgreSQL, MongoDB | Pinecone (Vector DB) | — |
+| **AI / ML Systems** | LLMs, RAG Pipelines, Transformers | MCP, Prompt & Retrieval Optimization | Fine-tuning at scale |
+| **MLOps & Infrastructure** | Docker, AWS, Git | CI/CD, Model Deployment | Kubernetes |
+| **Data & Engineering Interests** | Data Engineering, AI System Design | Data Lakes | — |
+| **Human Languages** | Bangla, English | Hindi | — |
 
-> **"A year spent in artificial intelligence is enough to make one believe in God"**  
-> *- Alan Perlis*
+## Quotes
+
+> **"Something incredible is waiting to be known."**  
+> *- 2001: A Space Odysseys*
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=System.out.println(%22Thanks+for+visiting+👨‍💻%22);git+commit+-m+'Keep+Building+🚀';return+0;+Happy+Coding!+⚡">
