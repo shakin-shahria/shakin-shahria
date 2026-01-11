@@ -9,7 +9,7 @@
 
 **AI-focused Software Engineer building web applications and AI-powered systems.**  
 
-- Skilled in **Python, JavaScript/TypeScript, Laravel, Node.js, React, Next.js**.  
+- Skilled in **Python, JavaScript/TypeScript, Laravel, FastAPI, Node.js, React, Next.js**.  
 - Working on **LLMs, RAG pipelines, and data-driven AI integrations**.  
 - Experienced with **SQL, NoSQL, and vector databases** for AI workflows.
 
