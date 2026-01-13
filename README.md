@@ -1,8 +1,12 @@
 # Shakin Shahria
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40">](https://www.linkedin.com/in/shakin-shahria-277082229) [<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="40">](https://shakin.dev)
+[![Website](https://img.shields.io/badge/Website-shakin.dev-000000?style=for-the-badge)](https://shakin.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shakin%20Shahria-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/shakin-shahria-277082229)
+[![Kaggle](https://img.shields.io/badge/Kaggle-shakinshahria-20BEFF?style=for-the-badge)](https://www.kaggle.com/shakinshahria)
+[![Email](https://img.shields.io/badge/Email-shakinshaharia@gmail.com-D14836?style=for-the-badge)](mailto:shakinshaharia@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-shakinshaharia%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakinshaharia@gmail.com)
+
+
 
 ##  Abstract
 
