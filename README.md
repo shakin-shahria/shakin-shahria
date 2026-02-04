@@ -6,7 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-shakinshaharia@gmail.com-D14836?style=for-the-badge)](mailto:shakinshaharia@gmail.com)
 
 
-
 ##  Abstract
 
 **AI-focused Software Engineer building web applications and AI-powered systems.**  
