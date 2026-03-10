@@ -7,7 +7,6 @@
 
 
 
-
 ##  Abstract
 
 **AI-focused Software Engineer building web applications and AI-powered systems.**  
