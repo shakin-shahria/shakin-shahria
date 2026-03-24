@@ -8,27 +8,29 @@
 
 
 
-##  Abstract
+## Abstract
 
-**AI-focused Software Engineer building web applications and AI-powered systems.**  
+**AI Engineer building production-grade LLM systems, RAG pipelines, and agentic workflows.**
 
-- Skilled in **Python, JavaScript/TypeScript, Laravel, FastAPI, Node.js, React, Next.js**.  
-- Working on **LLMs, RAG pipelines, and data-driven AI integrations**.  
-- Experienced with **SQL, NoSQL, and vector databases** for AI workflows.
+* **Core Stack:** Proficient in **Python, JavaScript/TypeScript, FastAPI, Laravel, React, and Next.js**.
+* **Infrastructure:** Built and deployed scalable AI systems on **AWS (EKS, Docker, Kubernetes)** serving **10k+ users**.
+* **AI Specialization:** Expert in **RAG (hybrid retrieval), Agentic AI, LangGraph, CrewAI, and MCP workflows**.
+* **Evaluation & Ops:** Experienced with evaluation frameworks (**Ragas, G-Eval**) and vector databases (**Pinecone, FAISS**).
 
+---
 
-##  Specifications
+## Specifications
 
 | Domain \ Proficiency | Strong | Working Knowledge | Exploring |
-|---------------------|--------|-------------------|-----------|
-| **Programming Languages** | Python, JavaScript, C, C++ | Java, Bash | — |
-| **Backend & APIs** | Laravel, FastAPI, Node.js, Express.js| REST API Design, Auth Systems | gRPC |
-| **Frontend & Full-Stack** | React.js, Next.js | React Native | — |
-| **Databases & Vector Stores** | MySQL, PostgreSQL, MongoDB | Pinecone (Vector DB) | — |
-| **AI / ML Systems** | LLMs, RAG Pipelines, Transformers | MCP, Prompt & Retrieval Optimization | Fine-tuning at scale |
-| **MLOps & Infrastructure** | Docker, AWS, Git | CI/CD, Model Deployment | Kubernetes |
-| **Data & Engineering Interests** | Data Engineering, AI System Design | Data Lakes | — |
-| **Human Languages** | Bangla, English | Hindi | — |
+| :--- | :--- | :--- | :--- |
+| **Programming Languages** | Python, JavaScript, TypeScript | C, C++ | — |
+| **Backend & APIs** | FastAPI, Node.js, Laravel | REST API Design, Auth Systems | gRPC |
+| **Frontend & Full-Stack** | React.js, Next.js | — | — |
+| **Databases & Vector Stores** | PostgreSQL, MongoDB | Pinecone, FAISS | — |
+| **AI / ML Systems** | LLMs, RAG (Hybrid), Agentic AI, LangGraph, CrewAI | MCP, Prompt Engineering, Evaluation (Ragas, G-Eval) | LoRA / QLoRA |
+| **MLOps & Infrastructure** | AWS (EKS), Docker, Kubernetes, Git | CI/CD | Advanced distributed systems |
+| **Data & Engineering** | AI System Design, Retrieval Systems | Data Engineering | — |
+| **Human Languages** | Bangla, English | — | — |
 
 ## Quotes
 
