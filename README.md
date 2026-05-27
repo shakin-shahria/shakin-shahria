@@ -21,9 +21,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shakin-shahria&label=Profile+Views&color=7c3aed&style=flat-square" />
-</p>
+</p> -->
 
 ---
 
