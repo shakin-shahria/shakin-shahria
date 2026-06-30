@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:4a0082,100:7c3aed&height=220&section=header&text=Shakin%20Shahria&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20RAG%20Pipelines%20%E2%80%A2%20Agentic%20AI&descAlignY=58&descAlign=50&descColor=c4b5fd" width="100%"/>
 </div>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=750&lines=Building+production-grade+LLM+systems+%F0%9F%A4%96;Hybrid+RAG+%E2%80%A2+Agentic+Workflows+%E2%80%A2+MCP+Pipelines;AWS+EKS+%E2%80%A2+Kubernetes+%E2%80%A2+Docker+%F0%9F%9A%80;Serving+10k%2B+users+in+production+%E2%9C%85;LangGraph+%E2%80%A2+CrewAI+%E2%80%A2+Pinecone+%E2%80%A2+FAISS+%E2%9A%A1" />
 </p>
