@@ -1,6 +1,6 @@
-<!-- <div align="center">
+ <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:4a0082,100:7c3aed&height=220&section=header&text=Shakin%20Shahria&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20RAG%20Pipelines%20%E2%80%A2%20Agentic%20AI&descAlignY=58&descAlign=50&descColor=c4b5fd" width="100%"/>
-</div> -->
+</div>
 
 
 <p align="center">
