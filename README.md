@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=750&lines=Building+production-grade+LLM+systems+%F0%9F%A4%96;Hybrid+RAG+%E2%80%A2+Agentic+Workflows+%E2%80%A2+MCP+Pipelines;AWS+EKS+%E2%80%A2+Kubernetes+%E2%80%A2+Docker+%F0%9F%9A%80;Serving+10k%2B+users+in+production+%E2%9C%85;LangGraph+%E2%80%A2+CrewAI+%E2%80%A2+Pinecone+%E2%80%A2+FAISS+%E2%9A%A1" />
 </p>
 
-
 <p align="center">
   <a href="https://shakin.dev">
     <img src="https://img.shields.io/badge/Website-shakin.dev-000000?style=for-the-badge" />
